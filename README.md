@@ -1,1 +1,3 @@
-echo "# Hello, I'm Mustajab Hussain, a student at UMT learning IT!" > README.md
+# About Me
+
+Hi, I'm Mustajab Hussain, currently studying Open Source Software Development at UMT. This is my Git & GitHub lab Assignment.
